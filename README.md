@@ -1,13 +1,13 @@
 [![MasterHead](https://i.pinimg.com/originals/8a/81/ec/8a81ecd8fdd266b3221da325875c0ea8.gif)](https://tommyshea1.io)
 <h1 align="center">Hi 👋, I'm Thomas Shea</h1>
-<h3 align="center">A current senior passionately studying Business Analytics and Information Systems</h3>
+<h3 align="center">Looking for likeminded to collaborate with :) </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tommyshea1" alt="tommyshea1" /></a> </p>
 
 - 🌱 I’m currently learning **Cyber Security,**
 
-- 🤝 I’m looking for help with **Python Tips and Tricks**
+- 🤝 I’m looking for help with **Tableau Tips n Tricks & Python Note Sheets**
 
 - 📫 How to reach me **thomas-shea@uiowa.edu**
 
