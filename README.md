@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tommyshea1" alt="tommyshea1" /></a> </p>
 
-- 🌱 I’m currently learning about: **AI, Trading & the Market, Cybersecurity**
+- 🌱 I’m currently learning about: **AI, Trading, & Cybersecurity**
 
 - 🤝 I’m looking for help with **Tableau Tips n Tricks & Python Note Sheets**
 
