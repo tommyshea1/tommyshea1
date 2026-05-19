@@ -7,6 +7,7 @@
 
 <!-- ===================== TITLE ===================== -->
 <h1 align="center">Hi 👋, I'm Thomas Shea</h1>
+<h2 align="center">https://tommyshea-resume.vercel.app/</h2>
 <h3 align="center">Learning &amp; studying — looking for like-minded people to collaborate with :)</h3>
 
 <br/>
