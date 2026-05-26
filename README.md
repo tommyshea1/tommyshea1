@@ -68,11 +68,3 @@
   </a>
 </p>
 <br/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" title="pandas">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48" />
-  </a>
-</p>
-<br/>
