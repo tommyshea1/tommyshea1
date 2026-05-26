@@ -34,10 +34,13 @@
 </div>
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== GITHUB BADGES ===================== -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tommyshea1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyshea1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/tommyshea1?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b26&logo=github" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/tommyshea1?label=Stars&style=for-the-badge&color=e0af68&labelColor=1a1b26&logo=github&affiliations=OWNER" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Profile-Views-9ece6a?style=for-the-badge&labelColor=1a1b26&logo=github" alt="Profile" />
 </div>
 <br/>
 
@@ -57,6 +60,14 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.oracle.com/" title="Oracle">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" title="pandas">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48" />
+  </a>
+</p>
+<br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" />
   </a>
   &nbsp;&nbsp;
